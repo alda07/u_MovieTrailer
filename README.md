@@ -9,9 +9,9 @@ OR Install Python 3 on WINDOW : http://docs.python-guide.org/en/latest/starting/
 OR Install Python 3 on LINUX : http://docs.python-guide.org/en/latest/starting/install3/linux/ 
 
 ****---START SERVER---*****
-1. cd [MOVIE_FINAL PATH]
+1. cd [movie_trailer folder PATH]
 2. python3 entertainment_center.py
-3. Now server START
+3. Now server STARTED
 
 ****---OPEN WEBSITE---*****
 1. Open the webbrowser
