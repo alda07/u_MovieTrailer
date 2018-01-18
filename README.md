@@ -4,9 +4,9 @@
 
 ****---INSTALL PYTHON 3 ---*****
 
-MAC : http://docs.python-guide.org/en/latest/starting/install3/osx/
-WINDOW : http://docs.python-guide.org/en/latest/starting/install3/win/
-LINUX : http://docs.python-guide.org/en/latest/starting/install3/linux/ 
+- MAC : http://docs.python-guide.org/en/latest/starting/install3/osx/
+- WINDOW : http://docs.python-guide.org/en/latest/starting/install3/win/
+- LINUX : http://docs.python-guide.org/en/latest/starting/install3/linux/ 
 
 ****---START SERVER---*****
 1. cd [movie_trailer folder PATH]
