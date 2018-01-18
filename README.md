@@ -2,11 +2,11 @@
 
 ------------------- HOW TO RUN THE SERVER ON YOUR LAPTOP ------------------- 
 
-****---INSTALL PYTHON ---*****
+****---INSTALL PYTHON 3 ---*****
 
-Install Python 3 on MAC : http://docs.python-guide.org/en/latest/starting/install3/osx/
-OR Install Python 3 on WINDOW : http://docs.python-guide.org/en/latest/starting/install3/win/
-OR Install Python 3 on LINUX : http://docs.python-guide.org/en/latest/starting/install3/linux/ 
+MAC : http://docs.python-guide.org/en/latest/starting/install3/osx/
+WINDOW : http://docs.python-guide.org/en/latest/starting/install3/win/
+LINUX : http://docs.python-guide.org/en/latest/starting/install3/linux/ 
 
 ****---START SERVER---*****
 1. cd [movie_trailer folder PATH]
